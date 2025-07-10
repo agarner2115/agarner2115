@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agarner2115
 - 👀 I’m interested in baking, gaming, and crocheting.
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I have experience using C++, C, Python, Java, and MATLAB.
 - 💞️ I’m looking to collaborate on coding projects using new languages.
 - 📫 How to reach me ... akiyag2005@gmail.com
 
